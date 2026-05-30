@@ -1,4 +1,4 @@
-# C++ program
+# java program
 My c++ program practice 
 and Java code learning and practice 
 
