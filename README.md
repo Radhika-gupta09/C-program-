@@ -1,5 +1,5 @@
 # java program
-My c++ program practice 
+My  java program practice 
 and Java code learning and practice 
 
 ((Code in java program ))
