@@ -2,7 +2,7 @@
 My c++ program practice 
 and Java code learning and practice 
 
-Code in java
+Code in java program 
  
 import java.util.Scanner;
 class {
